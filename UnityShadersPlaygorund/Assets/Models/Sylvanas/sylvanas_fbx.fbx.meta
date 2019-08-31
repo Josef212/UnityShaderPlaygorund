@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 60c82213841651b4ab10ad9f0ce7ef49
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: sylvanas_fbx(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulderUnder_l
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.3213109, y: 2.155996, z: -0.10488502}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulderUnder_r
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.3213109, y: 2.155996, z: -0.10488502}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulderUpper_r
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.28689557, y: 2.2265294, z: -0.103482254}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder_upper_r
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.28689557, y: 2.2265294, z: -0.103482254}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_l
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.04454462, y: 2.4483316, z: 0.049230937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_r
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.04454462, y: 2.4483316, z: 0.049230937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyebrow_l1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.047474135, y: 2.4688394, z: 0.07572563}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyebrow_r1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.11569086, y: 2.4846864, z: 0.09470265}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyebrow_r2
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.11463636, y: 2.4846864, z: 0.094535634}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyebrow_l2
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.047474135, y: 2.4688394, z: 0.07618907}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cape1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.011284981, y: 1.2857213, z: -0.35404453}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cape
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.0017578506, y: 2.4408736, z: -0.06862766}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.13279821, y: 2.3194582, z: 0.028412556}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair2
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.07792256, y: 2.320949, z: 0.034362268}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair3
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.054309368, y: 2.2538593, z: 0.046625927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair4
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.045191422, y: 2.2916846, z: -0.0015244245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair5
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.060240816, y: 2.3114796, z: -0.014187826}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair6
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.07633704, y: 2.2583818, z: 0.044458482}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair7
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.08368394, y: 2.3819606, z: 0.04711375}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair8
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.041339863, y: 2.4683318, z: 0.09682056}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair9
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.0056012594, y: 2.4939585, z: 0.10666735}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair10
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.07316376, y: 2.468999, z: 0.058583926}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair11
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.031148158, y: 2.502667, z: 0.088987246}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair12
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.018500075, y: 2.348576, z: 0.072201386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair13
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.044233877, y: 2.345984, z: 0.04091382}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair14
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.06164132, y: 2.3181, z: 0.056380842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair15
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.1237482, y: 2.3194582, z: 0.028412556}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair16
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.06887255, y: 2.320949, z: 0.034362268}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair17
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.04525935, y: 2.2538593, z: 0.046625927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair18
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.054241434, y: 2.2916846, z: -0.0015244245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair19
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.051190805, y: 2.3114796, z: -0.014187826}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair20
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.08538704, y: 2.2583818, z: 0.044458482}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair21
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.09273396, y: 2.3819606, z: 0.04711375}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair22
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.050389875, y: 2.4683318, z: 0.09682056}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair23
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.00344876, y: 2.4939585, z: 0.10666735}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair24
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.06411375, y: 2.468999, z: 0.058583926}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair25
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.040198173, y: 2.502667, z: 0.088987246}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair26
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.027550092, y: 2.348576, z: 0.072201386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair27
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.053283896, y: 2.345984, z: 0.04091382}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair28
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.052591305, y: 2.3181, z: 0.056380842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair29
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.1258554, y: 2.3194582, z: 0.028412556}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair30
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.07097976, y: 2.320949, z: 0.034362268}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair31
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.04736656, y: 2.2538593, z: 0.046625927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair32
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.05213423, y: 2.2916846, z: -0.0015244245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair33
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.053298004, y: 2.3114796, z: -0.014187826}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair34
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.08327983, y: 2.2583818, z: 0.044458482}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair35
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.09062675, y: 2.3819606, z: 0.04711375}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair36
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.04828267, y: 2.4683318, z: 0.09682056}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair37
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.0013415491, y: 2.4939585, z: 0.10666735}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair38
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.06622096, y: 2.468999, z: 0.058583926}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair39
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.038090963, y: 2.502667, z: 0.088987246}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair40
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.025442882, y: 2.348576, z: 0.072201386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair41
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.051176686, y: 2.345984, z: 0.04091382}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair42
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.05469851, y: 2.3181, z: 0.056380842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.3871701, y: 2.0198636, z: 0.046214942}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather2
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.4637104, y: 2.0386367, z: -0.0013160538}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather3
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.56196946, y: 2.0367196, z: -0.10100344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather4
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.5414418, y: 2.0207796, z: -0.19129825}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather5
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.3927767, y: 2.0538282, z: -0.2965014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather6
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.24910715, y: 2.1005502, z: -0.30013835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather7
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.24910715, y: 2.1005502, z: -0.30013835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather8
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.3927767, y: 2.0538282, z: -0.2965014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather9
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.5414418, y: 2.0207796, z: -0.19129825}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather10
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.56196946, y: 2.0367196, z: -0.10100344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather11
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.4637104, y: 2.0386367, z: -0.0013160538}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: feather12
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.3871701, y: 2.0198636, z: 0.046214942}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0.749881, z: -0.022933502}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armArmor1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armArmor2
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armArmor3
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armArmor4
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armArmor5
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armArmor6
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armArmor7
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armArmor8
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 1.6126442, z: -0.056613673}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: underpant
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.0000000667572, y: 1.5076604, z: -0.06269324}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow4
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.15084583, y: 2.3721015, z: -0.33020046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow2
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.16947259, y: 2.349665, z: -0.2847003}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow3
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.20000757, y: 2.3291256, z: -0.27777717}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrowBag
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.037093066, y: 2.1002657, z: -0.32499695}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.2546276, y: 2.3405595, z: -0.29923758}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyeSphere_l
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.042445574, y: 2.4485867, z: 0.027221808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyeSphere_r
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.042445574, y: 2.4485867, z: 0.027221808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyelashes
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 2.4452596, z: 0.050408706}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 2.380706, z: -0.017756475}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ear_l
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ear_r
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tongue
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.00000045446362, y: 2.3449237, z: -0.017849524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: belt
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chestArmor3
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.00026689528, y: 1.9515272, z: -0.006296177}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: gum_lower
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.0000024131475, y: 2.3502748, z: 0.0022498805}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: gum_upper
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.000003195607, y: 2.3770914, z: 0.007731261}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: beltPieces1
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.00025621863, y: 0.00012387136, z: -0.0018149691}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: beltPieces
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.8373779, y: 0.15895462, z: 0.04570055}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: beltPieces2
+      parentName: sylvanas_fbx(Clone)
+      position: {x: 0.3582801, y: 0.43263465, z: -1.042476}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: beltPieces3
+      parentName: sylvanas_fbx(Clone)
+      position: {x: -0.00031178052, y: -0.000057718422, z: 0.000648934}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
